@@ -1,0 +1,5 @@
+"""Константы."""
+
+# Board
+TITLE_MAX_LENGTH = 250
+DESCRIPTION_MAX_LENGTH = 500
